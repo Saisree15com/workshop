@@ -1,3 +1,4 @@
 email and password
 phone number and password
+username and password
 
